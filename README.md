@@ -84,7 +84,7 @@ be sent over email.
 * [github](www.github.com)
   
 
-## Topi
+## Topics
 0. Introduction to data science for BME
     1. Git, Github
     0. Google Colab
